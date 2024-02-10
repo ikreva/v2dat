@@ -10,7 +10,7 @@ env:
 
 jobs:
   releases-matrix:
-    name: Release cmd/osrm-files-extractor
+    name: Release v2dat
     runs-on: ubuntu-latest
     strategy:
       matrix:
